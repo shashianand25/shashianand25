@@ -154,8 +154,6 @@ const shashi = {
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=shashianand25&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
