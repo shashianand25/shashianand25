@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+software+%F0%9F%9A%80;React+Native+%7C+Node.js+%7C+TypeScript+%7C+AI;Intern+%40+HPE+%E2%80%94+Grafana+AI+%26+OpenSearch;Creator+of+Scorr+%E2%80%94+on+the+Play+Store+%F0%9F%8E%AF;Solving+DSA+on+LeetCode+daily+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;TypeScript+%7C+Python+%7C+JavaScript;React+Native+%7C+Node.js+%7C+Next.js;Intern+%40+HPE+%E2%80%94+Grafana+AI+%26+OpenSearch;Always+Learning+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 <br/>
